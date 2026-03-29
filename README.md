@@ -1,6 +1,8 @@
 # MobaXterm Labs
 MobaXterm CustomProKey file generator script for License Testing.
 
+**Portuguese (pt-BR):** [README.pt-BR.md](README.pt-BR.md) · [CONTRIBUTING.md](CONTRIBUTING.md) · [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md)
+
 ## How it work?
 
 Please see source code. It is not complex.
